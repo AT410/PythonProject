@@ -1,0 +1,2 @@
+# PythonProject
+Pythonを使ったあれこれ
